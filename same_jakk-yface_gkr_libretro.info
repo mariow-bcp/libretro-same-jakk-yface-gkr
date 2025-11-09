@@ -1,0 +1,31 @@
+# Software Information
+display_name = "Sunplus - Jakks Pacfic Gamekey-Ready Plug'n Play (SAME Jakk-yface GKR)"
+authors = "MAMEdev"
+supported_extensions = "zip"
+corename = "SAME Jakk-yface GKR (Git)"
+license = "GPLv2+"
+permissions = ""
+display_version = "Git"
+categories = "Emulator"
+
+# Hardware Information
+manufacturer = "Sunplus"
+systemname = "jakksgkr"
+systemid = "jakksgkr"
+
+# Libretro Features
+supports_no_game = "false"
+database = "MAME"
+savestate = "false"
+savestate_features = "null"
+cheats = "false"
+input_descriptors = "false"
+memory_descriptors = "false"
+libretro_saves = "false"
+core_options = "true"
+core_options_version = "1.0"
+hw_render = "false"
+disk_control = "false"
+database_match_archive_member = "true"
+
+description = "SAME Jakk-y Face is a version of the MAME Emulator which only supports Sunplus consoles. Only Gamekey Ready ones are supported here."
