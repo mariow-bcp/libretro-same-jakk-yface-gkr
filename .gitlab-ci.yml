@@ -4,7 +4,7 @@
 .core-defs:
   variables:
     MAKEFILE: Makefile.libretro
-    CORENAME: same_jakk-y-face-gkr
+    CORENAME: same_jakk-yface-gkr
 
 # Core definitions
 include:
