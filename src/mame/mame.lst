@@ -1,0 +1,31 @@
+// license:BSD-3-Clause
+// copyright-holders:Aaron Giles
+/******************************************************************************
+
+    mame.lst
+
+    This is not an automatically generated file, and it should be manually
+    updated when new driver is added.
+
+******************************************************************************/
+
+@source:spg2xx_jakks_gkr.cpp
+jak_wwe                         //
+jak_fan4                        //
+jak_just                        // Base unit
+jak_dora                        // Philips CD-i model 200 (Mono-I board, PAL)
+jak_dorr                        // Philips CD-i model 220 (Mono-II board, NTSC)
+jak_nick                        // (c) TAB Austria 199?
+jak_sbfc                        // (c) TAB Austria 1996
+jak_sdoo                        // (c) TAB Austria 1996
+jak_disn                        // (c) TAB Austria 1996
+jak_disf                        // (c) TAB Austria 1995
+jak_dpr                         // (c) TAB Austria 199?
+jak_dprs                        // (c) TAB Austria 1996
+jak_sith                        // (c) TAB Austria 1996
+jak_sithp                       // (c) TAB Austria 1996
+jak_swot                        // (c) TAB Austria 1998
+jak_dbz                         // (c) TAB Austria 1997
+jak_mpac                        // (c) TAB Austria 1998
+jak_capc                        // (c) TAB Austria 1998
+jak_wof                         //
